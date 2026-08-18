@@ -4,7 +4,7 @@ layout: default
 next: background.html
 ---
 
-## For the current version of the NYC Open Data Technical Standards Manual (TSM), please visit: https://on.nyc.gov/TSM
+## For the current version of the NYC Open Data Technical Standards Manual (TSM), please visit: (https://on.nyc.gov/TSM)
 
 
 We at the City of New York want to continuously collaborate with you on our Open Data Policies, Technical Standards, and Guidelines. On March 7, 2012, [the most progressive open government legislation in the country](http://www.nyc.gov/html/om/html/2012a/pr081-12.html) was enacted: [Local Law 11](LocalLaw11of2012.html). Achieving the goals of the law demands significant input from the community. For additional information, see our [open government page on NYC.gov](http://www.nyc.gov/html/doitt/html/open/data.shtml).
