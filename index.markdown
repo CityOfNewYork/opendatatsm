@@ -25,7 +25,7 @@ There's a lot of information in the TSM, so we broke it up into sections to make
 
 There's also [a copy of Local Law 11 of 2012](LocalLaw11of2012.html), which serves as the foundation for all of the information here.
 
-You can use the navigation menu at the top of the page to find the same sections. At the bottom of each page, there are buttons to the previous and next sections. Finally, if you prefer, you can [view and print the most recent official version](http://www.nyc.gov/html/doitt/downloads/pdf/nyc_open_data_tsm.pdf).
+You can use the navigation menu at the top of the page to find the same sections. At the bottom of each page, there are buttons to the previous and next sections. Finally, if you prefer, you can [view and print the most recent official version](https://on.nyc.gov/TSM).
 
 ##Providing feedback
 
