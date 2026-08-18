@@ -1,6 +1,6 @@
 site_name: 'Document Review'
 site_url: 'http://localhost:8080'
-markdown: maruku
+#markdown: maruku
 rdiscount:
     extensions: [smart]
 permalink: /articles/:title
